@@ -1,0 +1,21 @@
+map:
+  key1: value1
+  key2: value2
+server: 8081
+city:
+  -beijing
+  -shanghai
+  -guangzhou
+  -fuzhou
+  -putian
+student:
+  - name: tom
+    age: 18
+    addr: beijing
+  - name: lucy
+    age: 11
+    addr: putian
+person:
+  addr: lanzhou
+  name: meizhu
+  age: 9
